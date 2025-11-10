@@ -82,8 +82,8 @@ La aplicación sigue el patrón **MVC (Model-View-Controller)**:
 
 1. Clona el repositorio:
 ```bash
-git clone <url-del-repositorio>
-cd comunicaciones_digitales_app
+git clone https://github.com/AFlazaroo/CultivGrow.git
+cd CultivGrow
 ```
 
 2. Instala las dependencias:
